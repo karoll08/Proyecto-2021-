@@ -9,6 +9,8 @@ body{
 }
 
 h3{
+    font-family: "Shippori Antique";
+    src: url("https://fonts.google.com/specimen/Shippori+Antique?category=Serif,Sans+Serif#standard-styles");
     font-size:  24px;
     color: #52734D;
 
